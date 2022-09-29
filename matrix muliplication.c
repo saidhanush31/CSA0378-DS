@@ -47,5 +47,5 @@ for(i=0;i<r;i++)
 	printf("\n");
 }
 return 0;
-
+	
 }
